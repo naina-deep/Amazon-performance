@@ -1,0 +1,5 @@
+>>>How to Run
+1. Open the notebook in Google Colab
+2. Install PySpark using: `!pip install pyspark`
+3. Upload the dataset file
+4. Run all cells step by step
